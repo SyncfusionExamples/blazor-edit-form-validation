@@ -4,7 +4,7 @@ using System.Text;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.CompilerServices;
 
-namespace Blazor_EditForm.Data
+namespace EditFormValidation.Data
 {
     /// <summary>
     /// Get the employee details 
