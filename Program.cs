@@ -1,6 +1,6 @@
-using EditFormValidation.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Blazor_EditForm.Data;
 using Syncfusion.Blazor;
 
 var builder = WebApplication.CreateBuilder(args);
